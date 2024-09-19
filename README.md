@@ -17,3 +17,7 @@ Repository şunları içerir:
 
 ## Kurulum
 Bu repository'i klonlayın ve gerekli bağımlılıkları yükleyin:
+
+## Teşekkür
+"Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection" makalesinin yazarlarına temel yöntemler ve benchmarklar için teşekkür ederiz.
+Daha fazla bilgi için [TarDAL GitHub repository](https://github.com/dlut-dimt/TarDAL) ziyaret edebilirsiniz.
