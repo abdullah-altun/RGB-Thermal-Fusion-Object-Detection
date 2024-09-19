@@ -12,8 +12,6 @@ Repository şunları içerir:
 
 ## Özellikler
 - **Yüksek Kaliteli Füzyon**: Daha iyi nesne tespiti için yüksek görsel kalitede birleştirilmiş görüntüler üretir.
-- **Kapsamlı Benchmark**: Çeşitli senaryolar ve değişken piksel dağılımlarını içeren geniş bir veri seti sunar.
-- **Verimlilik**: Tespit doğruluğu, çalışma süresi ve parametre verimliliğinde mevcut yöntemlerden daha iyi performans gösterir.
 
 ## Kurulum
 Bu repository'i klonlayın ve gerekli bağımlılıkları yükleyin:
