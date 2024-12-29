@@ -1,0 +1,6 @@
+train: dataset/M3FD_Detection/Thermal/train/images
+val: dataset/M3FD_Detection/Thermal/val/images
+test: dataset/M3FD_Detection/Thermal/test/images
+
+nc: 2
+names: [Person,Car]

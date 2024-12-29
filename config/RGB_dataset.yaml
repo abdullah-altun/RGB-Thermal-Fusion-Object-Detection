@@ -1,0 +1,6 @@
+train: dataset/M3FD_Detection/RGB/train/images
+val: dataset/M3FD_Detection/RGB/val/images
+test: dataset/M3FD_Detection/RGB/test/images
+
+nc: 2
+names: [Person,Car]
