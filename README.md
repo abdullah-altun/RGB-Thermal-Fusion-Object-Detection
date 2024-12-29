@@ -23,11 +23,11 @@ Repository şunları içerir:
 ### 1. RGB ve Termal Görüntüler ile Eğitim
 RGB ve termal görüntüler ayrı ayrı aşağıdaki modellerde eğitilmiştir:
 
-| **Modality** | **Model**   | **AP (Average Precision)** |
+| **Modality** | **Model**   | **mAP50** |
 |--------------|-------------|-----------------------------|
-| RGB          | YOLOv8m     | **TBD**                    |
-| RGB          | YOLOv8x     | **TBD**                    |
-| RGB          | YOLOv11m    | **TBD**                    |
+| RGB          | YOLOv8m     | **0.764**                    |
+| RGB          | YOLOv8x     | **0.768**                    |
+| RGB          | YOLOv11m    | **0.749**                    |
 | RGB          | YOLOv11x    | **TBD**                    |
 | Thermal      | YOLOv8m     | **TBD**                    |
 | Thermal      | YOLOv8x     | **TBD**                    |
@@ -37,9 +37,9 @@ RGB ve termal görüntüler ayrı ayrı aşağıdaki modellerde eğitilmiştir:
 ### 2. Füzyon Yöntemleri ile Eğitim
 TarDAL ve SHIP yöntemleriyle füzyonlanan görüntüler aşağıdaki modellerde eğitilmiştir:
 
-| **Fusion Method** | **Model**   | **AP (Average Precision)** |
+| **Fusion Method** | **Model**   | **mAP50** |
 |-------------------|-------------|-----------------------------|
-| TarDAL            | YOLOv8m     | **TBD**                    |
+| TarDAL            | YOLOv8m     | **0.833**                    |
 | TarDAL            | YOLOv8x     | **TBD**                    |
 | TarDAL            | YOLOv11m    | **TBD**                    |
 | TarDAL            | YOLOv11x    | **TBD**                    |
