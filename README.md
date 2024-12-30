@@ -29,9 +29,9 @@ RGB ve termal görüntüler ayrı ayrı aşağıdaki modellerde eğitilmiştir:
 | RGB          | YOLOv8x     | **0.768**                    |
 | RGB          | YOLOv11m    | **0.749**                    |
 | RGB          | YOLOv11x    | **TBD**                    |
-| Thermal      | YOLOv8m     | **TBD**                    |
+| Thermal      | YOLOv8m     | **0.836**                    |
 | Thermal      | YOLOv8x     | **TBD**                    |
-| Thermal      | YOLOv11m    | **TBD**                    |
+| Thermal      | YOLOv11m    | **0.82**                    |
 | Thermal      | YOLOv11x    | **TBD**                    |
 
 ### 2. Füzyon Yöntemleri ile Eğitim
@@ -43,7 +43,7 @@ TarDAL ve SHIP yöntemleriyle füzyonlanan görüntüler aşağıdaki modellerde
 | TarDAL            | YOLOv8x     | **TBD**                    |
 | TarDAL            | YOLOv11m    | **TBD**                    |
 | TarDAL            | YOLOv11x    | **TBD**                    |
-| SHIP              | YOLOv8m     | **TBD**                    |
+| SHIP              | YOLOv8m     | **0.828**                    |
 | SHIP              | YOLOv8x     | **TBD**                    |
 | SHIP              | YOLOv11m    | **TBD**                    |
 | SHIP              | YOLOv11x    | **TBD**                    |
